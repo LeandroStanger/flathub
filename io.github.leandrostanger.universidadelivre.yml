@@ -50,3 +50,11 @@ modules:
         dest-filename: run.sh
         commands:
           - zypak-wrapper.sh /app/main/universidade-livre-desktop "$@"
+
+
+
+
+
+
+
+
